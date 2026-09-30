@@ -1,0 +1,5 @@
+# 统一换行符，避免不同系统上互相改写整个文件
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.ico binary
